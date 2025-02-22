@@ -1,0 +1,583 @@
+{ "" "" "" "Verilog HDL assignment warning at interrupt_latency_counter.v(93): truncated value with size 32 to match size of target (1)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog Module Declaration warning at alt_vipvfr131_prc_read_master.v(47): ignored anonymous port(s) indicated by duplicate or dangling comma(s) in the port list for module \"alt_vipvfr131_prc_read_master\"" {  } {  } 0 10238 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL Implicit Net warning at hps_sdram_pll.sv(168): created implicit net for \"pll_dr_clk\"" {  } {  } 0 10236 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL Implicit Net warning at alt_vipvfr131_prc.v(142): created implicit net for \"master_clock\"" {  } {  } 0 10236 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL Implicit Net warning at alt_vipvfr131_prc.v(143): created implicit net for \"master_reset\"" {  } {  } 0 10236 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at interrupt_latency_counter.v(94): truncated value with size 32 to match size of target (6)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL Subtype or Type Declaration warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(178): subtype or type has null range" {  } {  } 0 10445 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL Subtype or Type Declaration warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(181): subtype or type has null range" {  } {  } 0 10445 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL Subtype or Type Declaration warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(261): subtype or type has null range" {  } {  } 0 10445 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL Subtype or Type Declaration warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(262): subtype or type has null range" {  } {  } 0 10445 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(178): object \"wdata_fifo_wrusedw\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(179): object \"wdata_fifo_full\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(180): object \"wdata_fifo_almost_full\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(182): object \"wdata_fifo_empty\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(183): object \"wdata_fifo_almost_empty\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(184): object \"wdata_fifo_wrreq\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(185): object \"wdata_fifo_data\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(186): object \"wdata_fifo_rdreq\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(187): object \"wdata_fifo_q\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(189): object \"wdata_fifo_empty_next\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(193): object \"rdata_fifo_full\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(194): object \"rdata_fifo_almost_full\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(195): object \"rdata_fifo_rdusedw\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(197): object \"rdata_fifo_almost_empty\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(212): object \"cmd_fifo_wrusedw\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(214): object \"cmd_fifo_almost_full\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(215): object \"cmd_fifo_rdusedw\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(217): object \"cmd_fifo_almost_empty\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(229): object \"writing\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(229): object \"reading\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(239): object \"wdata_en\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL Signal Declaration warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(260): used implicit default value for signal \"byte_enable_next\" because signal was never assigned a value or an explicit default value. Use of implicit default value may introduce unintended design optimizations." {  } {  } 0 10541 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(424): ignored assignment of value to null range" {  } {  } 0 10296 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(425): ignored assignment of value to null range" {  } {  } 0 10296 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(437): ignored assignment of value to null range" {  } {  } 0 10296 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL Process Statement warning at alt_vipvfr131_common_avalon_mm_bursting_master_fifo.vhd(641): inferring latch(es) for signal or variable \"byte_enable\", which holds its previous value in one or more paths through the process" {  } {  } 0 10631 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_ram_fifo.vhd(129): object \"port_a_q\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Variable or input pin \"data_b\" is defined but never used." {  } {  } 0 287013 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_general_fifo.vhd(264): object \"logic_fifo_full\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "VHDL Subtype or Type Declaration warning at alt_vipvfr131_common_gray_clock_crosser.vhd(70): subtype or type has null range" {  } {  } 0 10445 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL Always Construct warning at alt_vipvfr131_common_avalon_mm_slave.v(45): inferring latch(es) for variable \"interrupt_register\", which holds its previous value in one or more paths through the always construct" {  } {  } 0 10240 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at alt_vipvfr131_common_avalon_mm_slave.v(72): truncated value with size 35 to match size of target (32)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at alt_vipvfr131_common_avalon_mm_slave.v(72): truncated value with size 49 to match size of target (32)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL Always Construct warning at alt_vipvfr131_vfr_control_packet_encoder.v(62): inferring latch(es) for variable \"control_data\", which holds its previous value in one or more paths through the always construct" {  } {  } 0 10240 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at alt_vipvfr131_vfr_control_packet_encoder.v(82): truncated value with size 32 to match size of target (4)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Net \"control_header_state\[7..5\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(58) has no driver or initial value, using a default initial value '0'" {  } {  } 0 10030 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Net \"control_header_state\[3..1\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(58) has no driver or initial value, using a default initial value '0'" {  } {  } 0 10030 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Net \"control_header_data\[7..5\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(59) has no driver or initial value, using a default initial value '0'" {  } {  } 0 10030 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Net \"control_header_data\[3..1\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(59) has no driver or initial value, using a default initial value '0'" {  } {  } 0 10030 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[4\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[5\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[6\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[7\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[12\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[13\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[14\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[15\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[20\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[21\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[22\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[23\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[28\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[29\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[30\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[31\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[36\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[37\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[38\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[39\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[44\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[45\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[46\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[47\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[52\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[53\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[54\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[55\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[60\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[61\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[62\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[63\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[68\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[69\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[70\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[71\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[72\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[73\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[74\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[75\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[76\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[77\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[78\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[79\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[80\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[81\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[82\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[83\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[84\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[85\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[86\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[87\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[88\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[89\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[90\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[91\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[92\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[93\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[94\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred latch for \"control_data\[95\]\" at alt_vipvfr131_vfr_control_packet_encoder.v(62)" {  } {  } 0 10041 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at soc_system_mm_interconnect_0_router.sv(154): object \"address\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at altera_merlin_burst_adapter_13_1.sv(794): truncated value with size 10 to match size of target (9)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at I2C_HDMI_Config.sv(41): truncated value with size 32 to match size of target (16)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at I2C_HDMI_Config.sv(91): truncated value with size 32 to match size of target (6)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at I2C_Controller.sv(57): truncated value with size 32 to match size of target (1)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at I2C_WRITE_WDATA.sv(54): truncated value with size 32 to match size of target (8)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at wshb2avl.sv(177): truncated value with size 32 to match size of target (8)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.we\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.stb\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.sel\[3\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.sel\[2\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.sel\[1\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.sel\[0\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.rty\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.err\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[9\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[8\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[7\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[6\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[5\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[4\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[3\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[31\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[30\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[2\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[29\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[28\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[27\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[26\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[25\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[24\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[23\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[22\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[21\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[20\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[1\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[19\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[18\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[17\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[16\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[15\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[14\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[13\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[12\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[11\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[10\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_sm\[0\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[9\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[8\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[7\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[6\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[5\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[4\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[3\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[31\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[30\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[2\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[29\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[28\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[27\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[26\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[25\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[24\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[23\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[22\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[21\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[20\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[1\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[19\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[18\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[17\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[16\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[15\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[14\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[13\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[12\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[11\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[10\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.dat_ms\[0\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.cyc\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.cti\[2\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.cti\[1\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.cti\[0\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.bte\[1\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.bte\[0\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[9\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[8\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[7\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[6\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[5\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[4\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[3\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[31\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[30\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[2\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[29\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[28\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[27\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[26\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[25\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[24\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[23\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[22\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[21\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[20\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[1\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[19\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[18\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[17\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[16\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[15\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[14\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[13\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[12\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[11\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[10\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.adr\[0\]\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb_if:wshb_if_sdram\|wshb_if.ack\" is stuck at GND because node is in wire loop and does not have a source" {  } {  } 0 12161 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at hps_sdram_pll.sv(168): object \"pll_dr_clk\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Output port \"pll_locked\" at hps_sdram_pll.sv(91) has no driver" {  } {  } 0 10034 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL warning at hps_sdram_p0_acv_hard_memphy.v(420): object reset_n_seq_clk used but never assigned" {  } {  } 0 10858 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at hps_sdram_p0_acv_hard_memphy.v(557): truncated value with size 4 to match size of target (1)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Net \"reset_n_seq_clk\" at hps_sdram_p0_acv_hard_memphy.v(420) has no driver or initial value, using a default initial value '0'" {  } {  } 0 10030 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Output port \"ctl_reset_export_n\" at hps_sdram_p0_acv_hard_memphy.v(222) has no driver" {  } {  } 0 10034 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at hps_sdram_p0_acv_ldc.v(45): object \"phy_clk_dq\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at hps_sdram_p0_acv_ldc.v(47): object \"phy_clk_dqs_2x\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Output port \"ddio_phy_dqdin\[179..140\]\" at hps_sdram_p0_acv_hard_io_pads.v(191) has no driver" {  } {  } 0 10034 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Output port \"ddio_phy_dqdin\[107..104\]\" at hps_sdram_p0_acv_hard_io_pads.v(191) has no driver" {  } {  } 0 10034 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Output port \"ddio_phy_dqdin\[71..68\]\" at hps_sdram_p0_acv_hard_io_pads.v(191) has no driver" {  } {  } 0 10034 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Output port \"ddio_phy_dqdin\[35..32\]\" at hps_sdram_p0_acv_hard_io_pads.v(191) has no driver" {  } {  } 0 10034 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at altera_mem_if_hard_memory_controller_top_cyclonev.sv(1166): truncated value with size 320 to match size of target (1)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at altera_mem_if_hard_memory_controller_top_cyclonev.sv(1167): truncated value with size 320 to match size of target (1)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at altera_mem_if_hard_memory_controller_top_cyclonev.sv(1168): truncated value with size 320 to match size of target (1)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at altera_mem_if_hard_memory_controller_top_cyclonev.sv(1169): truncated value with size 320 to match size of target (1)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at altera_mem_if_hard_memory_controller_top_cyclonev.sv(1170): truncated value with size 320 to match size of target (1)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL assignment warning at altera_mem_if_hard_memory_controller_top_cyclonev.sv(1171): truncated value with size 320 to match size of target (1)" {  } {  } 0 10230 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HDMI_I2C_SDA~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_USB_DATA\[0\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_USB_DATA\[1\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_USB_DATA\[2\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_USB_DATA\[3\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_USB_DATA\[4\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_USB_DATA\[5\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_USB_DATA\[6\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_USB_DATA\[7\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_SPIM_SS~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_SD_DATA\[0\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_SD_DATA\[1\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_SD_DATA\[2\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_SD_DATA\[3\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_SD_CMD~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_LTC_GPIO~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_LED~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_KEY~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_I2C1_SDAT~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_I2C1_SCLK~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_I2C0_SDAT~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_I2C0_SCLK~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_GSENSOR_INT~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_ENET_MDIO~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_ENET_INT_N~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQS_P\[0\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQS_P\[1\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQS_P\[2\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQS_P\[3\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQS_N\[0\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQS_N\[1\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQS_N\[2\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQS_N\[3\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[0\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[1\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[2\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[3\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[4\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[5\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[6\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[7\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[8\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[9\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[10\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[11\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[12\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[13\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[14\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[15\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[16\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[17\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[18\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[19\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[20\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[21\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[22\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[23\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[24\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[25\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[26\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[27\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[28\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[29\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[30\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_DDR3_DQ\[31\]~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node \"hws_ifm.HPS_CONV_USB_N~synth\"" {  } {  } 0 13010 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[31\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[30\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[29\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[28\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[27\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[26\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[25\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[24\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[23\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[22\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[21\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[20\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[19\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[18\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[17\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[16\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[15\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[14\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[13\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Partition port \"hw_support:hw_support_inst\|wshb_ifm.dat_sm\[12\]\", driven by node \"~GND\", does not drive logic" {  } {  } 0 35018 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Only the first 20 ports are reported. For a full list of ports, refer to the Partition Warnings panel in the Partition Merge report" {  } {  } 0 35039 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at hps_sdram_p0.sdc(551): *:hw_support_inst\|*:soc_system_inst\|*:hps_0\|*:hps_io\|*:border\|*:hps_sdram_inst\|*s0\|* could not be matched with a clock or keeper or register or port or pin or cell or partition" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at hps_sdram_p0.sdc(551): Argument <from> is not an object ID" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at hps_sdram_p0.sdc(552): *:hw_support_inst\|*:soc_system_inst\|*:hps_0\|*:hps_io\|*:border\|*:hps_sdram_inst\|*s0\|*hphy_bridge_s0_translator\|av_readdata_pre\[*\] could not be matched with a clock or keeper or register or port or pin or cell or partition" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at hps_sdram_p0.sdc(552): Argument <to> is not an object ID" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(1): hps_io_hps_io_emac1_inst_TX_CLK could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(1): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(2): hps_io_hps_io_emac1_inst_TXD0 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(2): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(3): hps_io_hps_io_emac1_inst_TXD1 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(3): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(4): hps_io_hps_io_emac1_inst_TXD2 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(4): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(5): hps_io_hps_io_emac1_inst_TXD3 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(5): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(6): hps_io_hps_io_emac1_inst_RXD0 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(6): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(7): hps_io_hps_io_emac1_inst_MDIO could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(7): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(8): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(9): hps_io_hps_io_emac1_inst_MDC could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(9): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(10): hps_io_hps_io_emac1_inst_RX_CTL could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(10): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(11): hps_io_hps_io_emac1_inst_TX_CTL could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(11): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(12): hps_io_hps_io_emac1_inst_RX_CLK could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(12): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(13): hps_io_hps_io_emac1_inst_RXD1 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(13): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(14): hps_io_hps_io_emac1_inst_RXD2 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(14): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(15): hps_io_hps_io_emac1_inst_RXD3 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(15): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(16): hps_io_hps_io_sdio_inst_CMD could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(16): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(17): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(18): hps_io_hps_io_sdio_inst_D0 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(18): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(19): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(20): hps_io_hps_io_sdio_inst_D1 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(20): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(21): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(22): hps_io_hps_io_sdio_inst_CLK could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(22): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(23): hps_io_hps_io_sdio_inst_D2 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(23): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(24): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(25): hps_io_hps_io_sdio_inst_D3 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(25): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(26): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(27): hps_io_hps_io_usb1_inst_D0 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(27): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(28): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(29): hps_io_hps_io_usb1_inst_D1 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(29): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(30): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(31): hps_io_hps_io_usb1_inst_D2 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(31): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(32): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(33): hps_io_hps_io_usb1_inst_D3 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(33): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(34): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(35): hps_io_hps_io_usb1_inst_D4 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(35): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(36): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(37): hps_io_hps_io_usb1_inst_D5 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(37): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(38): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(39): hps_io_hps_io_usb1_inst_D6 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(39): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(40): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(41): hps_io_hps_io_usb1_inst_D7 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(41): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(42): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(43): hps_io_hps_io_usb1_inst_CLK could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(43): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(44): hps_io_hps_io_usb1_inst_STP could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(44): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(45): hps_io_hps_io_usb1_inst_DIR could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(45): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(46): hps_io_hps_io_usb1_inst_NXT could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(46): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(47): hps_io_hps_io_spim1_inst_CLK could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(47): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(48): hps_io_hps_io_spim1_inst_MOSI could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(48): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(49): hps_io_hps_io_spim1_inst_MISO could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(49): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(50): hps_io_hps_io_spim1_inst_SS0 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(50): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(51): hps_io_hps_io_uart0_inst_RX could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(51): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(52): hps_io_hps_io_uart0_inst_TX could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(52): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(53): hps_io_hps_io_i2c0_inst_SDA could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(53): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(54): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(55): hps_io_hps_io_i2c0_inst_SCL could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(55): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(56): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(57): hps_io_hps_io_i2c1_inst_SDA could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(57): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(58): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(59): hps_io_hps_io_i2c1_inst_SCL could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(59): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(60): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(61): hps_io_hps_io_gpio_inst_GPIO09 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(61): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(62): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(63): hps_io_hps_io_gpio_inst_GPIO35 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(63): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(64): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(65): hps_io_hps_io_gpio_inst_GPIO40 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(65): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(66): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(67): hps_io_hps_io_gpio_inst_GPIO53 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(67): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(68): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(69): hps_io_hps_io_gpio_inst_GPIO54 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(69): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(70): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_hps_io_border.sdc(71): hps_io_hps_io_gpio_inst_GPIO61 could not be matched with a port" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(71): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_hps_io_border.sdc(72): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Following 1 pins have no output enable or a GND or VCC output enable - later changes to this connectivity may change fitting results" {  } {  } 0 169064 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Found invalid Fitter assignments. See the Ignored Assignments panel in the Fitter Compilation Report for more information." {  } {  } 0 171167 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(4): *fpga_interfaces\|f2sdram~FF_3769 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(4): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(5): *fpga_interfaces\|f2sdram~FF_3770 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(5): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(6): *fpga_interfaces\|f2sdram~FF_3771 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(6): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(8): *fpga_interfaces\|f2sdram~FF_3774 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(8): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(9): *fpga_interfaces\|f2sdram~FF_3775 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(9): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(10): *fpga_interfaces\|f2sdram~FF_3776 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(10): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(12): *fpga_interfaces\|f2sdram~FF_3779 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(12): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(13): *fpga_interfaces\|f2sdram~FF_3780 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(13): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(14): *fpga_interfaces\|f2sdram~FF_3781 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(14): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(20): *fpga_interfaces\|f2sdram~FF_3792 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(20): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(21): *fpga_interfaces\|f2sdram~FF_3793 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(21): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(22): *fpga_interfaces\|f2sdram~FF_3795 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(22): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(23): *fpga_interfaces\|f2sdram~FF_3796 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(23): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(24): *fpga_interfaces\|f2sdram~FF_3797 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(24): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(26): *fpga_interfaces\|f2sdram~FF_3799 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(26): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(27): *fpga_interfaces\|f2sdram~FF_3800 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(27): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(29): *fpga_interfaces\|f2sdram~FF_3803 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(29): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(30): *fpga_interfaces\|f2sdram~FF_3805 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(30): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(32): *fpga_interfaces\|f2sdram~FF_3808 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(32): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(33): *fpga_interfaces\|f2sdram~FF_3809 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(33): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(38): *fpga_interfaces\|f2sdram~FF_3816 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(38): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(39): *fpga_interfaces\|f2sdram~FF_3817 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(39): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(40): *fpga_interfaces\|f2sdram~FF_3818 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(40): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(42): *fpga_interfaces\|f2sdram~FF_3821 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(42): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(43): *fpga_interfaces\|f2sdram~FF_3822 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(43): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(44): *fpga_interfaces\|f2sdram~FF_3823 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(44): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(46): *fpga_interfaces\|f2sdram~FF_3831 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(46): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(47): *fpga_interfaces\|f2sdram~FF_3832 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(47): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(49): *fpga_interfaces\|f2sdram~FF_3835 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(49): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(50): *fpga_interfaces\|f2sdram~FF_3837 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(50): Argument <from> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(65): *fpga_interfaces\|f2sdram~FF_1055 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(65): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(66): *fpga_interfaces\|f2sdram~FF_1056 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(66): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(67): *fpga_interfaces\|f2sdram~FF_1057 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(67): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(69): *fpga_interfaces\|f2sdram~FF_1119 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(69): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(70): *fpga_interfaces\|f2sdram~FF_1120 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(70): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(71): *fpga_interfaces\|f2sdram~FF_1121 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(71): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(72): *fpga_interfaces\|f2sdram~FF_3405 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(72): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(73): *fpga_interfaces\|f2sdram~FF_3408 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(73): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(74): *fpga_interfaces\|f2sdram~FF_3409 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(74): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(75): *fpga_interfaces\|f2sdram~FF_3410 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(75): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(76): *fpga_interfaces\|f2sdram~FF_3414 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(76): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(77): *fpga_interfaces\|f2sdram~FF_3417 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(77): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(78): *fpga_interfaces\|f2sdram~FF_3418 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(78): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(79): *fpga_interfaces\|f2sdram~FF_3419 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(79): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(85): *fpga_interfaces\|f2sdram~FF_863 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(85): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(86): *fpga_interfaces\|f2sdram~FF_864 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(86): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(87): *fpga_interfaces\|f2sdram~FF_865 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(87): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(89): *fpga_interfaces\|f2sdram~FF_927 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(89): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(90): *fpga_interfaces\|f2sdram~FF_928 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(90): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(91): *fpga_interfaces\|f2sdram~FF_929 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(91): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(93): *fpga_interfaces\|f2sdram~FF_991 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(93): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(94): *fpga_interfaces\|f2sdram~FF_992 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(94): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored filter at soc_system_hps_0_fpga_interfaces.sdc(95): *fpga_interfaces\|f2sdram~FF_993 could not be matched with a register" {  } {  } 0 332174 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Ignored set_false_path at soc_system_hps_0_fpga_interfaces.sdc(95): Argument <to> is an empty collection" {  } {  } 0 332049 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "RST port on the PLL is not properly connected on instance sys_pll:sys_pll_inst\|sys_pll_0002:sys_pll_inst\|altera_pll:altera_pll_i\|general\[1\].gpll. The reset port on the PLL should be connected. If the PLL loses lock for any reason, you might need to manually reset the PLL in order to re-establish lock to the reference clock." {  } {  } 0 0 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "RST port on the PLL is not properly connected on instance sys_pll:sys_pll_inst\|sys_pll_0002:sys_pll_inst\|altera_pll:altera_pll_i\|general\[0\].gpll. The reset port on the PLL should be connected. If the PLL loses lock for any reason, you might need to manually reset the PLL in order to re-establish lock to the reference clock." {  } {  } 0 0 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Found partition port(s) not driving logic, possibly wasting area" {  } {  } 0 35016 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "OUTCLK port on the PLL is not properly connected on instance sys_pll:sys_pll_inst\|sys_pll_0002:sys_pll_inst\|altera_pll:altera_pll_i\|general\[0\].gpll. The output clock port on the PLL must be connected." {  } {  } 0 0 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "LOCKED port on the PLL is not properly connected on instance \"sys_pll:sys_pll_inst\|sys_pll_0002:sys_pll_inst\|altera_pll:altera_pll_i\|general\[0\].gpll\". The LOCKED port on the PLL should be connected when the FBOUTCLK port is connected. Although it is unnecessary to connect the LOCKED signal, any logic driven off of an output clock of the PLL will not know when the PLL is locked and ready." {  } {  } 0 21300 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node: hw_support:hw_support_inst\|I2C_HDMI_Config:u_I2C_HDMI_Config\|mI2C_CTRL_CLK was determined to be a clock but was found without an associated clock assignment." {  } {  } 0 332060 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node: hws_ifm.HPS_USB_CLKOUT was determined to be a clock but was found without an associated clock assignment." {  } {  } 0 332060 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node: hws_ifm.HPS_I2C0_SCLK was determined to be a clock but was found without an associated clock assignment." {  } {  } 0 332060 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Node: hws_ifm.HPS_I2C1_SCLK was determined to be a clock but was found without an associated clock assignment." {  } {  } 0 332060 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Entity \"avl_if\" contains only dangling pins" {  } {  } 0 12158 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Entity \"avlst_if\" contains only dangling pins" {  } {  } 0 12158 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Verilog HDL or VHDL warning at alt_vipvfr131_common_general_fifo.vhd(230): object \"ram_fifo_empty\" assigned a value but never read" {  } {  } 0 10036 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Entity \"altera_mem_if_hhp_qseq_synth_top\" contains only dangling pins" {  } {  } 0 12158 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred RAM node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb2avl:wshb2avl_i\|sync_fifo:read_fifo_i\|mem_rtl_0\" from synchronous design logic.  Pass-through logic has been added to match the read-during-write behavior of the original design." {  } {  } 0 276020 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred RAM node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|wshb2avl:wshb2avl_i\|sync_fifo:wr_fifo_i\|mem_rtl_0\" from synchronous design logic.  Pass-through logic has been added to match the read-during-write behavior of the original design." {  } {  } 0 276020 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Inferred RAM node \"hw_support:hw_support_inst\|fpga_bridge:fpga_bridge_inst\|avlst2wshb:avlst2wshb_inst\|sync_fifo:sync_fifo_i\|mem_rtl_0\" from synchronous design logic.  Pass-through logic has been added to match the read-during-write behavior of the original design." {  } {  } 0 276020 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "Synthesized away the following node(s):" {  } {  } 0 14284 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "TRI or OPNDRN buffers permanently enabled" {  } {  } 0 13009 "" 0 0 "Design Software" 0 -1 0 ""}
+{ "" "" "" "The configuration of the Hard Processor Subsystem (HPS) within this design has changed.\nThe Preloader software that initializes the HPS requires an update.\nUsing hps_isw_handoff/soc_system_hps_0/, run the Preloader Support Package Generator to update your Preloader software" {  } {  } 0 11713 "" 0 0 "Design Software" 0 -1 0 ""}

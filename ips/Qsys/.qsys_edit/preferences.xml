@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="223" />
+   <irq preferredWidth="63" />
+   <inputclock preferredWidth="176" />
+   <name preferredWidth="176" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Interface Protocols,Project/System,Library/Basic Functions/Simulation; Debug and Verification/Simulation,Library/Basic Functions,Library,Library/Basic Functions/Simulation; Debug and Verification,Project,Library/Interface Protocols/Audio &amp; Video,Library/Qsys Interconnect" />
+ <window width="1717" height="908" x="203" y="172" />
+</preferences>
