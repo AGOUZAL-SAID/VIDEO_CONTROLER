@@ -14,7 +14,6 @@ This macro project, conducted during the second year of engineering studies at *
 
 ## Implementation Details
 ### Architecture Overview
-![Block Diagram](docs/block_diagram.png) *(Include a diagram in your repo)*
 
 1. **Avalon-MM Interconnect**:
    - Implements Avalon-MM signals (`read`, `write`, `address`, `burstcount`).
